@@ -104,7 +104,7 @@
 		"titleBar.inactiveBackground": "#151515",
 		"titleBar.inactiveForeground": "#666666",
 
-		"menubar.selectionBackground": "#333333",
+		"menubar.selectionBackground": "#151515",
 		"menubar.selectionForeground": "#ffffff",
 		"menu.background": "#111111",
 		"menu.foreground": "#999999",
@@ -207,7 +207,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00b7ff"
+				"foreground": "#00aeff"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#d756ff"
 			}
 		},
 		{

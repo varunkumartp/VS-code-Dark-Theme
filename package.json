@@ -1,10 +1,19 @@
 {
-    "name": "dark-dark-vs",
-    "displayName": "Dark-vs",
-    "description": "VScode Dark Theme",
+    "name": "vs-code-dark-theme",
+    "displayName": "VS Code Dark Theme",
+    "description": "A theme with very dark background, with bright and bold text colors",
+    "publisher": "Varun Kumar T P",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
+    },
+    "author": {
+        "name": "Varun Kumar T P",
+        "email": "varunkumartp@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/varunkumartp/VS-code-Dark-Theme",
+        "type": "git"
     },
     "categories": [
         "Themes"
@@ -12,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark-Theme",
+                "label": "Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Dark-Theme-color-theme.json"
             }
